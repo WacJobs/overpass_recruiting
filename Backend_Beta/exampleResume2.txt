@@ -1,0 +1,77 @@
+Tyler Wacker
+952-999-2436 | tjwac27@gmail.com | linkedin.com/in/wacke127 | github.com/wacke127
+
+EDUCATION
+
+Georgia Institute of Technology
+Master of Science in Analytics
+Remote
+Aug. 2025 – May 2027
+
+University of Minnesota
+Bachelor of Arts in Human Biology, Minor in Chemistry
+Duluth, MN
+Aug. 2021 – May 2025
+
+EXPERIENCE
+
+MINNEBIO
+Software Development Intern
+Minneapolis, MN
+Feb. 2025 – Aug. 2025
+- Developed Python RAG pipeline to convert 1,000+ research papers into actionable cold email marketing, increasing leads of this nature by 50x
+- Led internal web application development for custom email marketing suite using Javascript/Elementor
+- Coordinated remote code delivery/access through Git, Docker, and AWS
+
+Deng Research Lab, University of Minnesota
+Undergraduate Research Assistant
+Duluth, MN
+Sep. 2024 – Apr. 2025
+- Practiced immunostaining and immunofluorescence protocols to analyze how environmental toxins damages Drosophila DNA and chromatin
+- Assisted in culturing specific gene lines of Drosophila and production of fly food
+- Employed data analysis strategies on Drosophila DNA and phenotype expressions
+
+CrunchAI
+Startup Data Engineer
+Remote
+Dec. 2023 – Aug. 2024
+- Auto-generated textbook summaries and study materials from PDF inputs
+- Developed computer vision pipelines using PyTorch, Facebook’s FAISS, and Google Colab
+- Stored textbook segments in MongoDB and PostgreSQL for efficient query systems based on similarity/kwargs
+
+PROJECTS
+
+Foreign Currency Trader/Simulator for OANDA
+Python, Gradio, AWS, REST
+Jul. 2025 – Sep. 2025
+- Triangulated CNHJPY by joining short USDCNH and long USDJPY trades
+- Developed optimization model to best fit grid trading size to past 2,000 days of historical data
+- Utilized 20:1 leverage to transform 0.83% EV APY to 16.5% APY while maintaining only 80% margin usage
+- Backend and frontend servers hosted on AWS communicate using custom REST API
+
+R Analytics Collection
+R, Python, PostgreSQL, Docker
+Dec. 2024 – Apr. 2025
+- Developed web apps with Shiny integrating ggplot2, dplyr, and caret for interactive dashboards, data manipulation, and predictive modeling
+- Applied dimension reduction and text mining techniques in R to simplify complex datasets, improve model interpretability, and uncover business insights
+- Maintained a comprehensive R repository, combining official R documentation, GTx Micromasters coursework, and self-authored guidelines for structured analytics projects
+- Utilized various machine learning algorithms to forecast business outcomes using PDF documents and eBay API as data sources
+
+Biology Publication
+MS Suite
+Apr. 2025
+- Lab is currently on track to submit 1-2 publications regarding Drosophila care procedures and DNA analysis
+
+TECHNICAL SKILLS
+
+Languages:
+R, Python, SQL (Postgres), SQLite, TypeScript, HTML, TailwindCSS
+
+Frameworks:
+React, Next.js, Shiny, Django, WordPress, Gradio, Streamlit
+
+Developer Tools:
+PowerBI, Excel, Git, VS Code, Docker, Google Cloud Platform, Jupyter, Azure Cloud, AWS
+
+Libraries:
+pandas, NumPy, Matplotlib, ggplot2, caret, BeautifulSoup4, scikitlearn

@@ -1,0 +1,14 @@
+curl -X POST http://localhost:8000/api/matches/score-text \
+  -H "Content-Type: application/json" \
+  --data "$(python3 - <<'PY'
+import json
+from pathlib import Path
+
+resume_text = Path('exampleResume2.txt').read_text()
+print(json.dumps({
+    'resume_text': resume_text,
+    'top_k': 5
+}))
+PY
+)" \
+  -o matches2.json
